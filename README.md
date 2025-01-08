@@ -1,17 +1,6 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+John Ahn님의 강의 [따라하며 배우는 노드, 리액트 시리즈 - 유튜브 사이트 만들기] (https://inf.run/VsTn/)
 
-To use this application, 
+React JS, Mongo DB , Node JS , Redux를 사용한 유튜브 사이트 클론 개발
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
-
-
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/watch?v=SsMn8tT3ZBQ&t=4365s
-
+-학습 과정
+[Youtube.Clone.Ko.pdf](https://github.com/user-attachments/files/18347667/Youtube.Clone.Ko.pdf)
